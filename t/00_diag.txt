@@ -1,0 +1,4 @@
+ExtUtils::MakeMaker
+Git::Wrapper
+Test::More
+URI
