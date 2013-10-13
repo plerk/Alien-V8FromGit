@@ -44,6 +44,7 @@ sub git
   $git;
 }
 
+# FIXME: use Sort::Versions
 sub _version_cmp
 {
   my $class = shift;
